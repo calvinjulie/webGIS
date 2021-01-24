@@ -1,4 +1,4 @@
-The URL for this request is https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJmzrzi9Y0K4gRgXUc3sTY7RU&fields=address_component,adr_address,business_status,formatted_address,geometry,icon,name,type,url,vicinity&key=AIzaSyAUo1lD94xydVP2R07g_e6w9npOnaJkE8k using my own API key. 
+The URL for this request is https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJmzrzi9Y0K4gRgXUc3sTY7RU&fields=address_component,adr_address,business_status,formatted_address,geometry,icon,name,type,url,vicinity&key=AIzaSyAUo1lD94xydVP2R07g_e6w9npOnaJkE8k using my own API key. I found the place_id from https://developers.google.com/places/web-service/place-id  
 
 The following is the JSON Response:
 
